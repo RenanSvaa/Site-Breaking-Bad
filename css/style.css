@@ -1,0 +1,17 @@
+@import "nav.css";
+@import "imgPrincipal.css";
+@import "secaoImagens.css";
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+h2 {
+    color: whitesmoke;
+    font-size: 30px;
+    margin: 50px;
+}
